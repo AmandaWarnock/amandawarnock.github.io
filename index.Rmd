@@ -4,7 +4,7 @@ title: "Home"
 # Amanda Warnock
 ## MPH Candidate at the Columbia University Mailman School of Public Health
 
-<img src="images/headshot.jpg" style="width:75%">
+<img src="images/headshot.jpg" style="width:50%">
 
 ## Mission
 
