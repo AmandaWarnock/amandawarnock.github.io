@@ -1,12 +1,12 @@
 ---
-title: "Amanda Warnock"
+title: "Home"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
-
-##MPH Candidate at the Columbia University Mailman School of Public Health
+# Amanda Warnock
+## MPH Candidate at the Columbia University Mailman School of Public Health
 
 <img src="images/headshot.jpg" style="width:75%">
 
