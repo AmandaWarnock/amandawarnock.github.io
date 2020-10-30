@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Human Rights Experience"
-      href: criminal.Rmd
+      href: criminal.html
     - text: "Sexual/Reproductive Health Experience"
       href: ssrh.Rmd
     - text: "Publications & More"
