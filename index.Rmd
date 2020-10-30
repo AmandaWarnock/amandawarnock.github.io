@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-## MPH Candidate at the Columbia University Mailman School of Public Health
+##MPH Candidate at the Columbia University Mailman School of Public Health
 
 <img src="images/headshot.jpg" style="width:75%">
 
@@ -24,11 +24,11 @@ I greatly value the legacy of those who have come before me and alongside me in 
 
 ## Affiliations
 
-* [Survived & Punished NY] (https://survivedandpunished.org/)
-* [Black & Pink Chicago] (https://www.facebook.com/chicagoblackandpink/)
-* [National Harm Reduction Coalition] (https://harmreduction.org/)
-* [VOCAL-NY] (https://www.vocal-ny.org/)
-* [Incarcerated Workers Organizing Committee] (https://incarceratedworkers.org/)
+* [Survived & Punished NY](https://survivedandpunished.org/)
+* [Black & Pink Chicago](https://www.facebook.com/chicagoblackandpink/)
+* [National Harm Reduction Coalition](https://harmreduction.org/)
+* [VOCAL-NY](https://www.vocal-ny.org/)
+* [Incarcerated Workers Organizing Committee](https://incarceratedworkers.org/)
 
 
 
