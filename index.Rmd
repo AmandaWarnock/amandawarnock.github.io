@@ -1,9 +1,5 @@
 ---
 title: "Home"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
 ---
 # Amanda Warnock
 ## MPH Candidate at the Columbia University Mailman School of Public Health

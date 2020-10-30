@@ -13,8 +13,12 @@ navbar:
       href: more.Rmd
     - icon: fa-envelope fa-lg
       href: mailto:<aw3251@cumc.columbia.edu>
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/amanda-warnock/
     - icon: fa-github fa-lg
       href: http://github.com/AmandaWarnock/
-output:
+output: 
   html_document:
-    theme: cerulean
+    toc: true
+    toc_float: true
+    theme: flatly

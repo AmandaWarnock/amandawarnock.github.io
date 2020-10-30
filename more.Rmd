@@ -1,6 +1,5 @@
 ---
 title: "Publications & More"
-output: html_document
 ---
 
 ## Publications
