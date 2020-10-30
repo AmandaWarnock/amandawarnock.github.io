@@ -1,0 +1,36 @@
+---
+title: "Amanda Warnock"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## MPH Candidate at the Columbia University Mailman School of Public Health
+
+<img src="images/headshot.jpg" style="width:75%">
+
+## Mission
+
+To work at the intersection of public health and the criminal legal system with an abolitionist lens. To use research and public health methods to mitigate suffering, end mass incarceration, and create communities of care. To decriminalize substance use, mental illness, sex work, poverty, and survivorship. 
+
+## Values
+
+I greatly value the legacy of those who have come before me and alongside me in this work, particularly the Black, LGBTQ, and incarcerated folks who laid the foundation and rightfully lead.
+
+[Land Acknowledgment] ()
+
+<img src="images/blm.jpg" style="width:75%">
+
+## Affiliations
+
+* [Survived & Punished NY] (https://survivedandpunished.org/)
+* [Black & Pink Chicago] (https://www.facebook.com/chicagoblackandpink/)
+* [National Harm Reduction Coalition] (https://harmreduction.org/)
+* [VOCAL-NY] (https://www.vocal-ny.org/)
+* [Incarcerated Workers Organizing Committee] (https://incarceratedworkers.org/)
+
+
+
+
+
