@@ -1,0 +1,37 @@
+---
+title: "Research Experience on Human Rights"
+output: html_document
+---
+## Research Foundation for Mental Hygiene
+Research Assistant for Leah Pope, October 2020-Present
+
+* Writing focus group guides and IRB applications for a study assessing how criminal legal system actors use misdemeanor charges against people with serious mental illness
+* Prioritized the experiences of people with lived experience with serious mental illness and the Manhattan criminal legal system
+* Will be conducting focus groups in the Winter of 2020-2021, analyzing results, and writing for publication
+
+## The Vera Institute of Justice
+Research Assistant, March 2020-October 2020
+
+* Conducted mixed methods research on the experience of people with serious mental illness in the Manhattan misdemeanor system
+* Analyzed historical administrative data on police budgets in 50 US cities
+
+## Columbia University Department of Epidemiology
+Research Assistant for Pia Mauro, February 2020-Present
+
+* Led quantitative analysis of the Treatment Episode Data Set - Admissions 2017 to assess disparities in referrals and outcomes among adolescents who use substances
+* Conducted a literature review on this topic and currently writing a grant
+
+## Health In Justice Action Lab
+Research Intern, September 2020-Present
+
+* Used thematic analysis methods to assess how media articles discuss the issue of involuntary commitment for substance use
+
+## Tippecanoe County Office of the Public Defender
+Research Intern, May 2018-October 2018
+
+* Studied the health conditions in the county jail and the community to create options to imporve the long-term mental health and substance use outcomes for people experiencing detention and incarceration
+* Analyzed and evaluated local capacity for crisis response services and mental health screenings in jails and te community
+* Communicated closely with clients in and out of jail to prepare for and provide high-quality legal services
+
+
+

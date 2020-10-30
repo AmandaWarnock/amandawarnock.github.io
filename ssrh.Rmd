@@ -1,0 +1,34 @@
+---
+title: "Experience with Sexual & Reproductive Health"
+output: html_document
+---
+## Black Tulips Doula Collective
+Birth Doula, July 2019-Present
+
+* Trained with a collective of Black & Queer people in Southern Michigan to provide birth doula services centered on racial and birthing justice
+* Assisted in births, birth preparation, and virtual assistance for pregnant and birthing people
+
+## Gay Health Advocacy Project/Women's Health Advocacy Project
+Counselor & Advocate, August 2019-Present
+
+* Educated and counseled clients on sexual and reproductive health, inscluding sexual violence, gender, sexuality, racial justice, HIV/STI treatment and risk reduction, injection drug use harm reduction, destigmatizing STIs, sexual pleasure, birth control, menstruation, pregnancy, and abortion
+* Consulted for other counselors on difficult issues regarding women's health, sexual violence, drug use, and stigma
+
+## COVID-19 Student Service Corps
+OB Outreach Volunteer, March 2020-Present
+
+* Conducted daily calls to pregnant patients on Medicaid at New York-Presbyterian Hospital to provide information on COVID-19 prevention during pregnancy and assisted patients in the transition to telehealth services
+
+## Indiana State Department of Health 
+###Department of Maternal & Child Health - MOMS Helpline
+Community Outreach Intern, May 2019-August 2019
+
+* Developed guidelines for discussing maternal health issues with higher-risk parents to improve access to equitable care
+* Executed community events to advertise the MOMS Helpline and provide assistance to parents and families
+
+###Strengthening the U.S. Response to Resistant Gonorrhea (CDC Team)
+Data Analysis Intern, May 2019-August 2019
+
+* Managed and analyzed data on gonorrhea in Indiana, particularly among people who use drugs or have co-occurring illnesses
+* Created data visualizations to further the department's understanding of the state of STI health in Indiana
+* Researched and strategized ways to increase antibiotic-resistance testing in hospitals across the state
