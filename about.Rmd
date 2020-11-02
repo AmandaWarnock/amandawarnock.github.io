@@ -2,8 +2,6 @@
 title: "About Me"
 ---
 
-# About Me
-
 I am a young, white, queer, & disabled woman living in Chicago and Baltimore. I grew up in Indiana, where I lived until  moving to Manhattan for graduate school. I study public health in the criminal legal system. I also assist in organizing for the abolition of the prison industrial complex, work as a birth doula, and am a sexual health & relationship counselor. 
 
 # Education
@@ -19,3 +17,4 @@ I am proficient in American Sign Language and am working on learning Spanish.
 
 ## Skills
 SPSS, R, STATA, Tableau, Qualtrics, Dedoose, qualitative data analysis, quantitative data analysis, data entry & cleaning, data visualization, policy analysis, literature reviews, academic writing, public speaking, verbal & written communication, teamwork, critical thinking, and independent work.
+
