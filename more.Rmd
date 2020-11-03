@@ -19,6 +19,10 @@ title: "Publications & More"
 ### Gracie
 <img src="images/gracie.JPG" style="width:75%">
 
+### Riley
+
+<img src="images/riley.png" style="width:75%">
+
 ### Skrimmer
 
 <img src="images/skrim.jpg" style="width:75%">
