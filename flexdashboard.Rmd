@@ -30,9 +30,35 @@ scale_fill_discrete = scale_fill_viridis_d
 ```
 
 ```{r}
-nyc_inspections = 
-  GET(https://data.cityofnewyork.us/resource/43nn-pn8j.csv) 
+data(rest_inspec)
 ```
 
+```{r}
+rest_inspec =
+  rest_inspec %>% 
+  filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
+  mutate(boro = str_to_title(boro))
+```
 
+```{r}
+rest_inspec %>% 
+  group_by(boro, grade) %>% 
+  summarize(n = n()) %>% 
+  plot_ly(x = ~grade, y = ~n, color = ~boro, colors = "viridis") %>% 
+  layout(title="Count of Grades in Boroughs")
+```
+
+```{r}
+rest_inspec %>%
+  filter(boro == "Manhattan") %>% 
+plot_ly(x = ~inspection_date, y = ~score, color = ~grade, type = "scatter", mode = "markers", colors = "viridis") %>% 
+  add_trace(opacity = 0.5, showlegend = F)
+```
+
+```{r}
+rest_inspec %>% 
+  filter(boro != "Missing") %>% 
+  mutate(boro = str_to_title(boro)) %>% 
+  plot_ly(x = ~boro, y = ~score, type = "box", color = ~boro, colors = "viridis")
+```
 
