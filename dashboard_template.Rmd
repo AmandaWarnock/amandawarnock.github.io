@@ -42,8 +42,8 @@ rest_inspec =
   filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
   mutate(boro = str_to_title(boro))
 
+rmarkdown::render("dashboard_template.Rmd", output_format = "flexdashboard::flex_dashboard")
 
-install.packages("htmlwidgets")
 library(htmlwidgets)
 ```
 
