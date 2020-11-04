@@ -42,8 +42,9 @@ rest_inspec =
   filter(grade %in% c("A", "B", "C"), boro != "Missing") %>% 
   mutate(boro = str_to_title(boro))
 
-rmarkdown::render("dashboard_template.Rmd", output_format = "flexdashboard::flex_dashboard")
 
+install.packages("htmlwidgets")
+library(htmlwidgets)
 ```
 
 Column {data-width=650}
@@ -51,7 +52,7 @@ Column {data-width=650}
 
 ### Manhattan Scores over Time
 
-```{r echo=FALSE}
+```{r, echo=FALSE}
 rest_inspec %>%
   filter(boro == "Manhattan") %>% 
 plot_ly(x = ~inspection_date, y = ~score, color = ~grade, type = "scatter", mode = "markers", colors = "viridis") %>% 
